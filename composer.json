@@ -1,0 +1,38 @@
+{
+	"name" : "sabinus52/assetstest",
+	"type" : "olix-asset",
+	"description" : "Test assets for OlixBundles",
+	"keywords" : [
+		"assets",
+		"bootstrap",
+		"css",
+		"js",
+		"less",
+		"responsive",
+		"front-end",
+		"framework",
+		"web"
+	],
+	"homepage" : "https://github.com/sabinus52/assetstest",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Olivier",
+			"email" : "sabinus52@gmail.com",
+			"role" : "Maintainer"
+		}
+	],
+	"extra" : {
+		"olix-asset" : {
+			"js" : [
+				"test1.js",
+				"test2.js"
+			],
+			"css" : [
+				"test.css"
+			],
+			"images" : [
+				"test*.png"
+			]
+		}
+	}
+}
