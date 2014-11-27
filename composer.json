@@ -22,17 +22,13 @@
 		}
 	],
 	"extra" : {
-		"olix-asset" : {
-			"js" : [
-				"test1.js",
-				"test2.js"
+		"olix" : {
+			"files" : [
+				"js/*",
+				"css/test.css",
+				"images/*.png"
 			],
-			"css" : [
-				"test.css"
-			],
-			"images" : [
-				"test*.png"
-			]
+			"name" : "test"
 		}
 	}
 }
