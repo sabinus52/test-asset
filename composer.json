@@ -21,9 +21,6 @@
 			"role" : "Maintainer"
 		}
 	],
-	"require" : {
-		"sabinus52/test-installer-bundle" : "dev-master"
-	},
 	"extra" : {
 		"olix" : {
 			"files" : [
